@@ -102,23 +102,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Swaroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=swaroop456&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop456&layout=compact&theme=radical)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=swaroop456&theme=radical)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=swaroop456&theme=radical)
 
 ---
 
@@ -132,7 +118,7 @@ Avanthi Institute of Engineering and Technology
 
 ## 📜 Certifications
 
-- 📘 SAP Analytics Cloud – Record of Achievement (SAP)
+- 📘 SAP Analytics Cloud – Record of Achievement (SAP) [Credly](https://www.credly.com/badges/28b70f9c-22ce-4f3a-99a7-57d09312ef1b)
 
 ---
 
