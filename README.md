@@ -102,6 +102,16 @@
 
 ---
 
+### Financial Sales Dashboard (Power BI)
+- Built 4-page interactive Power BI dashboard on Microsoft Financial Sample dataset
+- Developed 6 DAX measures including Total Sales, Total Profit, Profit Margin %
+- Created calculated column for row-level Profit Margin analysis
+- Analyzed 700 rows across 5 countries, 6 products & 5 segments
+
+🔗 https://github.com/swaroop456/PowerBI-Financial-Sales-Dashboard
+
+---
+
 ## 🎓 Education
 
 🎓 B.Tech – Mechanical Engineering  
