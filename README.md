@@ -1,6 +1,6 @@
 # Hi 👋, I'm Swaroop Kumar Vathada
 
-🎯 Data Analyst | 🔬 Aspiring Data Scientist | 📊 3rd Preference Role- Power BI Developer | 🤖 AI/ML Enthusiast
+🎯 Data Analyst | 🔬 Aspiring Data Scientist | 📊 My Next Preference Role- Power BI Developer | 🤖 AI/ML Enthusiast
 
 📍 Visakhapatnam, India  
 📧 swaroop.vathada@gmail.com  
@@ -108,7 +108,7 @@
 - Created calculated column for row-level Profit Margin analysis
 - Analyzed 700 rows across 5 countries, 6 products & 5 segments
 
-🔗 https://github.com/swaroop456/PowerBI-Financial-Sales-Dashboard
+🔗 https://github.com/swaroop456/Power-BI-Financial-Sales-Dashboard
 
 ---
 
