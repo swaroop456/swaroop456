@@ -102,12 +102,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=swaroop456&theme=radical)
-
----
-
 ## 🎓 Education
 
 🎓 B.Tech – Mechanical Engineering  
