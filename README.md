@@ -67,7 +67,7 @@
 
 ---
 
-### 🔹 Classic Models Database Analysis (SQL)
+### 🔹 Classic Models Database Analysis (MYSQL)
 - Wrote **complex SQL queries (JOIN, GROUP BY, Aggregations)**  
 - Performed structured database analysis  
 
