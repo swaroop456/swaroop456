@@ -70,6 +70,7 @@ Identified Maharashtra, Karnataka, and Telangana as top-performing states by rev
 Used 20+ SQL business queries, Python EDA, Pivot Analysis, and DAX measures for deep business insights.
 Generated actionable business recommendations for inventory optimization, regional targeting, pricing strategy, and sales growth.
 
+🔗 https://github.com/swaroop456/Amazon-Orders-Data-Analytics-Project
 
 
 ### 🔹 Cafeteria Sales Data Analysis (Python)
