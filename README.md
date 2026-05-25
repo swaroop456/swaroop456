@@ -58,6 +58,20 @@
 
 ## 📊 Projects
 
+### 🔹 Amazon Orders Data Analytics Project — Key Insights
+Analyzed 1,13,698 Amazon order records spanning across India using Python, Excel, MySQL, and Power BI.
+Built a 5-page interactive Power BI dashboard to track KPIs, revenue trends, customer behavior, and fulfillment performance.
+Identified INR 75M+ total revenue with an average order value of INR 663.
+Discovered that Kurta & Set categories contributed 77% of total orders, making them the highest-performing product categories.
+Found that promotional campaigns generated 2.5x higher revenue compared to non-promoted orders.
+Revealed that Expedited Shipping contributed nearly 75% of total revenue, showing strong customer preference for faster delivery.
+Analyzed seasonal sales trends and identified September & May as peak revenue months driven by festive and summer demand.
+Identified Maharashtra, Karnataka, and Telangana as top-performing states by revenue.
+Used 20+ SQL business queries, Python EDA, Pivot Analysis, and DAX measures for deep business insights.
+Generated actionable business recommendations for inventory optimization, regional targeting, pricing strategy, and sales growth.
+
+
+
 ### 🔹 Cafeteria Sales Data Analysis (Python)
 - Cleaned & analyzed **10,000+ rows** using Pandas  
 - Performed **EDA & correlation analysis**  
