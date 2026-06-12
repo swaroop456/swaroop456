@@ -58,6 +58,28 @@
 
 ## 📊 Projects
 
+### 🛒 Customer Segmentation Using K-Means Clustering & RFM Analysis
+- Analyzed **541,909 transaction records** from a UK-based Online Retail Store 
+  (Dec 2010 – Dec 2011) using Python
+- Engineered **RFM features** (Recency, Frequency, Monetary) from raw 
+  transaction data, aggregating 4,338 unique customers
+- Removed outliers using the **IQR method**, reducing dataset to 3,710 
+  clean customer records before clustering
+- Determined optimal **K=3 clusters** using Elbow Method and validated 
+  with Silhouette Score of **0.4600**
+- Segmented customers into **3 business-ready groups** — Premium (822), 
+  Regular (1,968), and At-Risk (920) — with distinct RFM profiles
+- Premium Customers showed the highest monetary value of **£2,107.88** 
+  average spend with a recency of just 36 days
+- Built **4 professional visualizations** — Bar Chart, Scatter Plots 
+  (Recency vs Monetary, Frequency vs Monetary), and RFM Heatmap
+- Applied **Euclidean distance analysis** using SciPy cdist to identify 
+  top 10 outlier customers farthest from their cluster centroids
+- Delivered actionable **business recommendations** — VIP rewards for 
+  Premium, upsell campaigns for Regular, win-back strategy for At-Risk customers
+
+
+
 ### 🔹 Amazon Orders Data Analytics Project — Key Insights
 Analyzed 1,13,698 Amazon order records spanning across India using Python, Excel, MySQL, and Power BI.
 Built a 5-page interactive Power BI dashboard to track KPIs, revenue trends, customer behavior, and fulfillment performance.
