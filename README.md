@@ -78,7 +78,7 @@
 - Delivered actionable **business recommendations** — VIP rewards for 
   Premium, upsell campaigns for Regular, win-back strategy for At-Risk customers
 
-
+🔗 https://github.com/swaroop456/Customer-Segmentation-ML-Project
 
 ### 🔹 Amazon Orders Data Analytics Project — Key Insights
 Analyzed 1,13,698 Amazon order records spanning across India using Python, Excel, MySQL, and Power BI.
