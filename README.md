@@ -75,6 +75,13 @@
 🔗 https://github.com/swaroop456/fashion-mnist-cnn-classifier
 
 
+
+Built an end-to-end NLP sentiment classification pipeline on 100 movie reviews, engineering a full text-preprocessing workflow (HTML stripping, lemmatization, negation-aware stop-word removal) that fed two competing model architectures.
+Implemented and benchmarked TF-IDF + Logistic Regression against a Keras word-embedding neural network, achieving 100% accuracy, precision, recall, and F1-score with the TF-IDF approach on the held-out test set.
+Diagnosed and explained a 30-point accuracy gap (100% vs. 70%) between the two models by tracing it to training-data volume, demonstrating applied understanding of when classical ML outperforms deep learning on small datasets.
+
+
+
 ### 🛒 Customer Segmentation Using K-Means Clustering & RFM Analysis
 - Analyzed **541,909 transaction records** from a UK-based Online Retail Store 
   (Dec 2010 – Dec 2011) using Python
