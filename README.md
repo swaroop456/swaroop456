@@ -1,6 +1,6 @@
 # Hi 👋, I'm Swaroop Kumar Vathada
 
-🎯 Data Analyst | 🔬 Results driven Data Scientist | 📊 My Next Preference Role- Power BI Developer | 🤖 AI/ML Enthusiast
+🎯 Data Analyst | 🔬 Results driven Data Scientist | 🤖 AI/ML Enthusiast |  📊 My Next Preference Role- Power BI Developer
 
 📍 Visakhapatnam, India  
 📧 swaroop.vathada@gmail.com
