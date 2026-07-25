@@ -1,6 +1,6 @@
 # Hi 👋, I'm Swaroop Kumar Vathada
 
-🎯 Data Analyst | 🔬 Results driven Data Scientist | 🤖 AI/ML Enthusiast |  📊 My Next Preference Role- Power BI Developer
+Top Priority 📊 Data Analyst → Data Scientist | 🤖 AI/ML Enthusiast | 🎯 Next Preferred Role: Power BI Developer
 
 📍 Visakhapatnam, India  
 📧 swaroop.vathada@gmail.com
@@ -13,7 +13,10 @@
 - 🐍 Strong in **Python, SQL, Power BI, Tableau & Excel**
 - 🔍 Passionate about **data-driven decision making**
 - 📈 Experienced in **EDA, Data Cleaning, Visualization & Dashboarding**
-- 🎯 Goal: To become a top-tier Data Analyst in a leading tech company
+- 🤖 Exploring **Machine Learning & Generative AI** — clustering, RAG pipelines, and agentic workflows**
+- 🔬 Built real-world **ML projects** including customer segmentation and AI-powered document Q&A systems**
+- 📚 Continuously upskilling from **Data Analytics into Data Science** through hands-on projects**
+- 🎯 Goal: To evolve from Data Analyst to Data Scientist — combining BI expertise with Machine Learning & AI to solve real-world problems
 
 ---
 
@@ -33,11 +36,33 @@
 ![NumPy](https://img.shields.io/badge/NumPy-blue)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
 
+### 🧬 Data Science & AI
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?logo=scikitlearn)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-orange?logo=scikitlearn)
+![FAISS](https://img.shields.io/badge/FAISS-blue?logo=meta)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface)
+![Groq](https://img.shields.io/badge/Groq%20API-black?logo=groq)
+![LangChain](https://img.shields.io/badge/LangChain-green?logo=langchain)
+
+### 🧪 Data Science Concepts
+- K-Means Clustering & Customer Segmentation
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & Vector Databases
+- Exploratory Data Analysis (EDA) for ML
+- Agentic AI & Autonomous Workflows
+
 ### ⚙️ Tools & Technologies
 - MySQL, MySQL Workbench  
 - SAP Analytics Cloud  
 - Power Query, DAX  
-- Git & GitHub  
+- Git & GitHub
+- - Scikit-learn (Machine Learning models — clustering, regression, classification)
+- FAISS (Vector similarity search / vector database)
+- Hugging Face (Pretrained embeddings & transformer models)
+- Groq API (Fast LLM inference — Llama models)
+- Google Colab & Jupyter Notebook (already in your list, but worth highlighting here too)
+- Seaborn / Matplotlib (Statistical data visualization)
 
 ---
 
