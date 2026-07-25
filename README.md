@@ -158,4 +158,4 @@ Avanthi Institute of Engineering and Technology
 
 ## ⚡ Fun Fact
 
-I enjoy turning raw data into meaningful insights and building dashboards that drive real-world decisions 📊🚀
+🔍 Fun fact: I get genuinely excited when messy data turns into a clean dashboard — and lately I've been just as excited teaching machines to spot the patterns themselves (RAG pipelines, clustering models, you name it) 🤖📊 📊🚀
