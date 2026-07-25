@@ -3,8 +3,7 @@
 🎯 Data Analyst | 🔬 Aspiring Data Scientist | 📊 My Next Preference Role- Power BI Developer | 🤖 AI/ML Enthusiast
 
 📍 Visakhapatnam, India  
-📧 swaroop.vathada@gmail.com  
-
+📧 swaroop.vathada@gmail.com
 ---
 
 ## 🚀 About Me
@@ -67,16 +66,6 @@
   clean customer records before clustering
 - Determined optimal **K=3 clusters** using Elbow Method and validated 
   with Silhouette Score of **0.4600**
-- Segmented customers into **3 business-ready groups** — Premium (822), 
-  Regular (1,968), and At-Risk (920) — with distinct RFM profiles
-- Premium Customers showed the highest monetary value of **£2,107.88** 
-  average spend with a recency of just 36 days
-- Built **4 professional visualizations** — Bar Chart, Scatter Plots 
-  (Recency vs Monetary, Frequency vs Monetary), and RFM Heatmap
-- Applied **Euclidean distance analysis** using SciPy cdist to identify 
-  top 10 outlier customers farthest from their cluster centroids
-- Delivered actionable **business recommendations** — VIP rewards for 
-  Premium, upsell campaigns for Regular, win-back strategy for At-Risk customers
 
 🔗 https://github.com/swaroop456/Customer-Segmentation-ML-Project
 
@@ -87,10 +76,6 @@ Identified INR 75M+ total revenue with an average order value of INR 663.
 Discovered that Kurta & Set categories contributed 77% of total orders, making them the highest-performing product categories.
 Found that promotional campaigns generated 2.5x higher revenue compared to non-promoted orders.
 Revealed that Expedited Shipping contributed nearly 75% of total revenue, showing strong customer preference for faster delivery.
-Analyzed seasonal sales trends and identified September & May as peak revenue months driven by festive and summer demand.
-Identified Maharashtra, Karnataka, and Telangana as top-performing states by revenue.
-Used 20+ SQL business queries, Python EDA, Pivot Analysis, and DAX measures for deep business insights.
-Generated actionable business recommendations for inventory optimization, regional targeting, pricing strategy, and sales growth.
 
 🔗 https://github.com/swaroop456/Amazon-Orders-Data-Analytics-Project
 
