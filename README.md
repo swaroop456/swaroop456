@@ -83,11 +83,12 @@
 🔗 https://github.com/swaroop456/nlp-sentiment-tfidf-vs-embeddings
 
 
-### 
+### research-agent-ai 
 - Built an autonomous research agent in Python that processes a batch of 5+ topics end-to-end (search → summarize → save), generating structured Markdown reports with zero manual intervention per topic
 - Designed a modular 3-tool pipeline (search, summarize, save) orchestrated by a single agent function, with a pluggable LLM layer supporting both offline extractive summarization and OpenAI-based abstractive summarization
 - Implemented 3 layers of guardrails — input sanitization, keyword-based content filtering, and automatic retry logic (up to 2 retries per step) — to handle malformed input, unsafe topics, and transient failures without crashing
 
+🔗 https://github.com/swaroop456/research-agent-ai
 
 
 ### 🛒 Customer Segmentation Using K-Means Clustering & RFM Analysis
