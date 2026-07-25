@@ -57,12 +57,12 @@
 
 ## 📊 Projects
 
-### 
+### employee-attrition-analytics 
 Built an end-to-end ML pipeline on 20,000 employee records to predict attrition, achieving [X]% F1-score and [X] ROC-AUC using Random Forest, Decision Tree, and Logistic Regression
 Identified the top 5 drivers of attrition (e.g. overtime, income, tenure) through feature importance analysis, cutting through 29 raw features to the ones that actually matter
 Segmented the workforce into [X] clusters using K-Means, uncovering a high-risk group with a [X]% attrition rate — [X]x higher than the company average of [X]%
 
-🔗  
+🔗 https://github.com/swaroop456/employee-attrition-analytics  
 
 
 ### customer-purchase-prediction-ann
