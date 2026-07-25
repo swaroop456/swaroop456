@@ -57,13 +57,13 @@
 
 ## 📊 Projects
 
-
+### customer-purchase-prediction-ann
 - Built a binary classification ANN (TensorFlow/Keras) predicting e-commerce purchase intent from session behavior data, achieving 95% test accuracy, 100% precision, and 87.5% recall
 - Engineered a preprocessing pipeline handling missing values, categorical encoding, and feature scaling on an 8-feature dataset with a 60/40 class split
 - Compared SGD vs Adam optimizers on identical architecture, with Adam converging in 96 epochs vs SGD's 100, using early stopping to prevent overfitting
 - Designed a 3-layer neural network (16→8→1 neurons) with ReLU/sigmoid activations, achieving an F1-score of 0.933 on unseen test data
 
-
+🔗 https://github.com/swaroop456/customer-purchase-prediction-ann
 
 
 ### 🛒 Customer Segmentation Using K-Means Clustering & RFM Analysis
