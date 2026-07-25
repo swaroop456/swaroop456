@@ -57,6 +57,14 @@
 
 ## 📊 Projects
 
+### 
+Built an end-to-end ML pipeline on 20,000 employee records to predict attrition, achieving [X]% F1-score and [X] ROC-AUC using Random Forest, Decision Tree, and Logistic Regression
+Identified the top 5 drivers of attrition (e.g. overtime, income, tenure) through feature importance analysis, cutting through 29 raw features to the ones that actually matter
+Segmented the workforce into [X] clusters using K-Means, uncovering a high-risk group with a [X]% attrition rate — [X]x higher than the company average of [X]%
+
+🔗  
+
+
 ### customer-purchase-prediction-ann
 - Built a binary classification ANN (TensorFlow/Keras) predicting e-commerce purchase intent from session behavior data, achieving 95% test accuracy, 100% precision, and 87.5% recall
 - Engineered a preprocessing pipeline handling missing values, categorical encoding, and feature scaling on an 8-feature dataset with a 60/40 class split
