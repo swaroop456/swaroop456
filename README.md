@@ -66,6 +66,14 @@
 🔗 https://github.com/swaroop456/customer-purchase-prediction-ann
 
 
+
+- Built a CNN (TensorFlow/Keras) that classifies clothing images into 10 categories, achieving 90.85% test accuracy on the Fashion-MNIST dataset (70,000 images)
+- Reduced overfitting through Dropout (0.5) and real-time data augmentation, keeping the train-validation accuracy gap under 1% across 28 training epochs
+- Designed a 3-block convolutional architecture (241K parameters) with early stopping, cutting unnecessary training time by ~7% (28 of 30 max epochs)
+- Diagnosed model weaknesses via confusion matrix analysis, identifying a 15%+ accuracy gap on visually similar classes (Shirt vs. T-shirt/Pullover/Coat)
+
+
+
 ### 🛒 Customer Segmentation Using K-Means Clustering & RFM Analysis
 - Analyzed **541,909 transaction records** from a UK-based Online Retail Store 
   (Dec 2010 – Dec 2011) using Python
